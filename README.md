@@ -3,17 +3,17 @@ Guides and scripts for Elementary OS | Гайды и скрипты для Eleme
 <table>
   <thead>
     <tr>
-      <th>Заголовок 1</th>
-      <th>Заголовок 2</th>
+      <th>Русский (Russian)</th>
+      <th>English (Английский)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Ячейка 1,1</td>
+      <td>Установка Elementary OS как одной ОС</td>
       <td>Ячейка 1,2</td>
     </tr>
     <tr>
-      <td>Ячейка 2,1</td>
+      <td>Установка Elementary OS рядом с Windows</td>
       <td>Ячейка 2,2</td>
     </tr>
   </tbody>
