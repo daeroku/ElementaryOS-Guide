@@ -16,5 +16,9 @@ Guides and scripts for Elementary OS | Гайды и скрипты для Eleme
       <td>Установка Elementary OS рядом с Windows</td>
       <td>Ячейка 2,2</td>
     </tr>
+    <tr>
+      <td><a href="https://daeroku.github.io/ElementaryOS-Guide/page/ru-debloat.md">Удаление всего ненужного (Деблоат)</a></td>
+      <td>Ячейка 2,2</td>
+    </tr>
   </tbody>
 </table>
